@@ -1,0 +1,2 @@
+- [x] Create MaterialsController with GetMaterials endpoint.
+- [x] Modify AddBatch to accept material IDs and fetch existing materials.

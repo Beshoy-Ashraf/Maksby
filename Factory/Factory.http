@@ -1,0 +1,6 @@
+@Factory_HostAddress = http://10.153.172.253:5049
+
+GET {{Factory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
